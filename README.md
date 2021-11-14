@@ -15,4 +15,4 @@
  
 </div>
 
- ![Snake animation](https://github.com/Camila-Tech/Camila-Tech/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Camila-Tech/blob/output/github-contribution-grid-snake.svg)
