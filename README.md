@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Camila
 
-- 🌱 Estudando JAVA, HTML e CSS
+- 🌱 Estudando JAVA, HTML, CSS, JAVASCRIPT e BOOTSTRAP
 - 😄 Pronouns: ela/dela
 
  <div>
