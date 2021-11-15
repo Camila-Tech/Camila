@@ -1,8 +1,6 @@
-## Olá! Eu sou a Camila
+## Hi, I'm Camila Vitória! 
 
-- 🌱 Estudando HTML, CSS, JAVASCRIPT, JAVA, SQL e BOOTSTRAP
-- 😄 Pronouns: ela/dela 
-
+- 🌱 I am learning HTML, CSS, JAVASCRIPT, JAVA, SQL e BOOTSTRAP
 
  <div align="center">
   <a href="https://github.com/Camila-Tech">
