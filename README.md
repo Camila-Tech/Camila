@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Camila
 
-- 🌱 Estudando HTML, CSS, JAVASCRIPT, JAVA e BOOTSTRAP
+- 🌱 Estudando HTML, CSS, JAVASCRIPT, JAVA, SQL e BOOTSTRAP
 - 😄 Pronouns: ela/dela
 
  <div>
@@ -13,7 +13,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="SQL" height="40" width="40" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"/>
   <img align="center" alt="BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+ 
 
 
  ![Snake animation](https://github.com/Camila-Tech/Camila-Tech/blob/output/github-contribution-grid-snake.svg)
