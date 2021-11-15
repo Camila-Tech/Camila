@@ -1,4 +1,4 @@
-## Oiii eu sou Camila Vitória! 
+## Oiii eu sou Camila! 
 
 - 🌱 Estou estudando HTML, CSS, JAVASCRIPT, JAVA, SQL e BOOTSTRAP
 
