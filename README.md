@@ -1,6 +1,6 @@
 ## Hi, I'm Camila Vitória! 
 
-- 🌱 I am learning HTML, CSS, JAVASCRIPT, JAVA, SQL e BOOTSTRAP
+- 🌱 I'm learning HTML, CSS, JAVASCRIPT, JAVA, SQL e BOOTSTRAP
 
  <div align="center">
   <a href="https://github.com/Camila-Tech">
